@@ -5,4 +5,4 @@ Public site for **SoapWiz** — hosts only the privacy policy and support pages,
 - Privacy Policy: https://danielbbastos.github.io/soapwiz-site/privacy
 - Support: https://danielbbastos.github.io/soapwiz-site/support
 
-Contact: danielbastos.work@gmail.com
+Contact: soapwiz@icloud.com
